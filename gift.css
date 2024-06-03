@@ -1,0 +1,10 @@
+.background_image{
+    background-color:rgb(53, 72, 88);
+    background-size: cover;
+    height: 100vh;
+}
+.background_image.double-clicked{
+    background-image: url("https://media.istockphoto.com/id/1383842766/photo/gift-image-for-fathers-day-and-men.jpg?s=612x612&w=0&k=20&c=XybjzkgBqbI5_hnmHifBhMw3nfGrLyuoAjNclQbrnww=");
+    background-size: cover;
+    height: 100vh;
+}
